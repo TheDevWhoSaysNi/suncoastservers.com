@@ -31,5 +31,5 @@ Prefer the Markdown files linked below. Each HTML page is the canonical public v
 ## Optional
 
 - [Full brief](https://suncoastservers.com/llms-full.txt): The overview and every page in one Markdown file.
-- [Privacy notice](https://suncoastservers.com/privacy): The site does not use accounts, analytics pixels, or a contact database. The contact form opens the visitor’s email app.
+- [Privacy notice](https://suncoastservers.com/privacy/): The site does not use accounts, analytics pixels, or a contact database. The contact form opens the visitor’s email app.
 - [Homepage](https://suncoastservers.com/): Canonical HTML homepage.
