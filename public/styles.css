@@ -348,10 +348,10 @@ header.site.scrolled {
 }
 
 .nav-links a:not(.btn) {
-  padding: 0.5rem 0.85rem;
+  padding: 0.5rem 0.7rem;
   border-radius: 999px;
   color: var(--ink-2);
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   font-weight: 500;
   text-decoration: none;
   transition: background-color 0.2s, color 0.2s;
@@ -1671,6 +1671,126 @@ footer.site {
   margin-top: 1rem;
 }
 
+.tile > .more {
+  align-self: flex-start;
+  margin-top: auto;
+  padding-top: 1.15rem;
+  color: var(--sunset-2);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.tile > .tags + .more {
+  margin-top: 1rem;
+}
+
+.tile > .more:hover {
+  color: var(--sunset-3);
+}
+
+address {
+  margin: 0;
+  font-style: normal;
+}
+
+.contact-list address {
+  margin: 0;
+}
+
+.contact-list a.quiet {
+  font-size: 0.95rem;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.wrap.guide {
+  width: min(46rem, calc(100% - 2 * var(--gutter)));
+  padding-top: clamp(2.5rem, 6vw, 4.25rem);
+  padding-bottom: 4.5rem;
+}
+
+.crumbs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0 0 1.35rem;
+  color: var(--ink-2);
+  font-size: 0.88rem;
+}
+
+.crumbs a {
+  color: var(--ink-2);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.crumbs a:hover,
+.guide a:not(.btn):hover,
+.link-list a:hover {
+  color: var(--sunset-3);
+}
+
+.guide h1 {
+  margin-bottom: 0.85rem;
+  font-size: clamp(2.3rem, 5vw, 3.45rem);
+}
+
+.guide h2 {
+  margin: 2.35rem 0 0.7rem;
+  font-size: clamp(1.45rem, 3vw, 1.9rem);
+}
+
+.guide h3 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.guide p,
+.guide .checks li,
+.link-list span {
+  color: var(--ink-2);
+}
+
+.guide-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.4rem 0 0.25rem;
+}
+
+.guide .checks {
+  margin: 0.3rem 0 1.35rem;
+}
+
+.guide .checks li::before {
+  color: var(--white);
+}
+
+.guide .faq {
+  margin-top: 0.35rem;
+}
+
+.link-list {
+  display: grid;
+  gap: 0.9rem;
+  margin: 0.2rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.link-list a {
+  color: var(--sunset-2);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.link-list span {
+  display: block;
+  margin-top: 0.15rem;
+  font-weight: 400;
+}
+
 /* Scroll reveal */
 
 .js .reveal {
@@ -1751,7 +1871,7 @@ footer.site {
   }
 }
 
-@media (max-width: 860px) {
+@media (max-width: 1080px) {
   .burger {
     display: block;
   }

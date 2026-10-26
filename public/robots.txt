@@ -1,4 +1,15 @@
+# Suncoast Servers
+# Short brief for AI assistants: https://www.suncoastservers.com/llms.txt
+# Longer brief: https://www.suncoastservers.com/llms-full.txt
+#
+# Content Signals: https://contentsignals.org/
+# search: building a search index and showing search results.
+# ai-input: using the site as input when an AI system answers a question.
+# ai-train: training or fine-tuning AI models.
+# yes means that use is welcome.
+
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
 Sitemap: https://www.suncoastservers.com/sitemap.xml

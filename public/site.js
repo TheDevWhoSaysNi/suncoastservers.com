@@ -46,6 +46,11 @@
   });
 
   const service = document.getElementById("service");
+  const preset = params.get("service");
+  if (preset && service) {
+    const match = [...service.options].find((option) => option.value === preset);
+    if (match) service.value = match.value;
+  }
   document.querySelectorAll("[data-service]").forEach((link) => {
     link.addEventListener("click", () => {
       if (service) service.value = link.dataset.service;

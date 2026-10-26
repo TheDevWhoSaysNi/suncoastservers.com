@@ -1,0 +1,35 @@
+# Suncoast Servers
+
+> Suncoast Servers LLC is a Tampa, Florida IT company. It works remotely with businesses in Tampa Bay, across Florida, and throughout the United States, and it also takes international clients. Services are websites and hosting, IT support, cloud, security, social ads, customer support, email administration, AI automation, and a real-device mobile testing cloud. AI speeds up delivery. A person signs off. Email info@suncoastservers.com. Office: 5005 W Laurel St, Suite 100, Tampa, FL 33607.
+
+Prefer the Markdown files linked below. Each HTML page is the canonical public version and includes schema.org JSON-LD for the business, the service, and the page’s questions. Customer support starts at $5 per hour. Other projects are quoted before work starts. Dedicated test phones start at $149 per month. No phone number is published. Client logos on the homepage are prior work by team members and are not endorsements.
+
+## Start here
+
+- [Company overview](https://www.suncoastservers.com/index.md): Facts, pricing, service area, and claims to avoid.
+- [All services](https://www.suncoastservers.com/services/index.md): Index of every IT service, with links to the detailed pages.
+- [Service area](https://www.suncoastservers.com/locations/index.md): How local, Florida, and U.S. coverage actually works.
+
+## Services
+
+- [Websites and hosting, without three vendors.](https://www.suncoastservers.com/services/websites-and-hosting/index.md): Custom sites, WordPress, online stores, hosting, domains, SSL, speed, and SEO.
+- [Remote IT support when something will not cooperate.](https://www.suncoastservers.com/services/it-support/index.md): Remote help desk for computers, Wi-Fi, printers, and everyday outages.
+- [Cloud and servers, set up and actually watched.](https://www.suncoastservers.com/services/cloud-and-servers/index.md): AWS, Azure, Google Cloud, Cloudflare, uptime monitoring, and backups that get tested.
+- [Social ads with a report you can actually read.](https://www.suncoastservers.com/services/social-media-and-ads/index.md): Meta, Google, TikTok, and LinkedIn campaigns, plus content, targeting, and reporting.
+- [Customer and community support, from $5 an hour.](https://www.suncoastservers.com/services/customer-support/index.md): Brand-safe comment, DM, chat, and inbox coverage across time zones, from $5 an hour.
+- [Security checkups, sign-in, and a backup you can trust.](https://www.suncoastservers.com/services/security-and-backups/index.md): Checkups, multi-factor authentication, device protection, and a tested recovery plan.
+- [AI and automation a human still signs off on.](https://www.suncoastservers.com/services/ai-and-automation/index.md): Chatbots and workflow automation inside the tools a team already uses, with a human sign-off.
+- [Email, Microsoft 365, and Google Workspace, handled.](https://www.suncoastservers.com/services/email-and-workspaces/index.md): Setup, migrations, shared inboxes, and the admin work around Microsoft 365 and Google Workspace.
+- [Real phones on real U.S. networks.](https://www.suncoastservers.com/services/mobile-device-cloud/index.md): Dedicated physical phones, unlimited U.S. carrier data, one stable mobile IP, and browser remote access.
+
+## Service area
+
+- [IT services for Tampa Bay businesses.](https://www.suncoastservers.com/locations/tampa-bay/index.md): Local coverage for Tampa Bay and the Suncoast, delivered mostly remotely from Tampa.
+- [IT services for companies anywhere in Florida.](https://www.suncoastservers.com/locations/florida/index.md): Statewide remote IT from the Tampa team, with no claim of branch offices.
+- [A remote IT department for U.S. businesses.](https://www.suncoastservers.com/locations/united-states/index.md): Nationwide remote IT from one Tampa team, including the U.S. mobile device lab.
+
+## Optional
+
+- [Full brief](https://www.suncoastservers.com/llms-full.txt): The overview and every page in one Markdown file.
+- [Privacy notice](https://www.suncoastservers.com/privacy): The site does not use accounts, analytics pixels, or a contact database. The contact form opens the visitor’s email app.
+- [Homepage](https://www.suncoastservers.com/): Canonical HTML homepage.
