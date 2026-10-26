@@ -4,7 +4,7 @@ Suncoast Servers sets up, moves, and administers Microsoft 365 and Google Worksp
 
 Suncoast Servers LLC is based in Tampa, Florida. Email info@suncoastservers.com. Office address: 5005 W Laurel St, Suite 100, Tampa, FL 33607, United States. Most work is remote. Primary service area: Tampa Bay, the rest of Florida, and the United States. International clients are welcome.
 
-Canonical page: https://www.suncoastservers.com/services/email-and-workspaces/
+Canonical page: https://suncoastservers.com/services/email-and-workspaces/
 
 
 ## What this includes
@@ -23,9 +23,9 @@ A five-person Tampa company and a U.S. team that has never shared an office can 
 
 ## Where this work happens
 
-- [IT services in Tampa Bay](https://www.suncoastservers.com/locations/tampa-bay/): Tampa, St. Petersburg, Clearwater, and the Suncoast.
-- [IT services in Florida](https://www.suncoastservers.com/locations/florida/): The same Tampa team for companies anywhere in the state.
-- [Remote IT across the U.S.](https://www.suncoastservers.com/locations/united-states/): A remote IT department for the rest of the country.
+- [IT services in Tampa Bay](https://suncoastservers.com/locations/tampa-bay/): Tampa, St. Petersburg, Clearwater, and the Suncoast.
+- [IT services in Florida](https://suncoastservers.com/locations/florida/): The same Tampa team for companies anywhere in the state.
+- [Remote IT across the U.S.](https://suncoastservers.com/locations/united-states/): A remote IT department for the rest of the country.
 
 
 ## Questions
@@ -45,6 +45,6 @@ No. Workspace projects are quoted. The $5 rate is for customer and community sup
 
 ## Related services
 
-- [Security and backups](https://www.suncoastservers.com/services/security-and-backups/): Checkups, multi-factor sign-in, device protection, and recovery plans.
-- [Remote IT support](https://www.suncoastservers.com/services/it-support/): Computers, Wi-Fi, printers, and the errors nobody can explain.
-- [Website design and hosting](https://www.suncoastservers.com/services/websites-and-hosting/): Custom sites, WordPress, online stores, domains, SSL, speed, and SEO.
+- [Security and backups](https://suncoastservers.com/services/security-and-backups/): Checkups, multi-factor sign-in, device protection, and recovery plans.
+- [Remote IT support](https://suncoastservers.com/services/it-support/): Computers, Wi-Fi, printers, and the errors nobody can explain.
+- [Website design and hosting](https://suncoastservers.com/services/websites-and-hosting/): Custom sites, WordPress, online stores, domains, SSL, speed, and SEO.

@@ -1,6 +1,6 @@
 # Suncoast Servers
 
-Suncoast Servers LLC is a Tampa, Florida information technology company. It works remotely with businesses in Tampa Bay, across Florida, and throughout the United States. International clients are welcome. The public site is https://www.suncoastservers.com/.
+Suncoast Servers LLC is a Tampa, Florida information technology company. It works remotely with businesses in Tampa Bay, across Florida, and throughout the United States. International clients are welcome. The public site is https://suncoastservers.com/.
 
 Suncoast Servers provides websites and hosting, IT support, cloud and servers, security and backups, social media advertising, customer and community support, Microsoft 365 and Google Workspace administration, AI and automation, and a real-device mobile testing cloud.
 
@@ -69,4 +69,4 @@ Community and customer support starts at $5 an hour. Other projects are quoted b
 
 Research, repetitive setup, drafting, and log review are handed to AI tools. People spend time on decisions and finishing work. The savings are passed on. AI can be excluded from a project on request.
 
-Canonical page: https://www.suncoastservers.com/
+Canonical page: https://suncoastservers.com/

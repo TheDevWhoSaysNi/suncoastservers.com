@@ -4,7 +4,7 @@ Suncoast Servers is a remote help desk for businesses in Tampa Bay, across Flori
 
 Suncoast Servers LLC is based in Tampa, Florida. Email info@suncoastservers.com. Office address: 5005 W Laurel St, Suite 100, Tampa, FL 33607, United States. Most work is remote. Primary service area: Tampa Bay, the rest of Florida, and the United States. International clients are welcome.
 
-Canonical page: https://www.suncoastservers.com/services/it-support/
+Canonical page: https://suncoastservers.com/services/it-support/
 
 
 ## What this includes
@@ -23,9 +23,9 @@ If a problem can only be fixed by someone standing in the room, we say so before
 
 ## Where this work happens
 
-- [IT services in Tampa Bay](https://www.suncoastservers.com/locations/tampa-bay/): Tampa, St. Petersburg, Clearwater, and the Suncoast.
-- [IT services in Florida](https://www.suncoastservers.com/locations/florida/): The same Tampa team for companies anywhere in the state.
-- [Remote IT across the U.S.](https://www.suncoastservers.com/locations/united-states/): A remote IT department for the rest of the country.
+- [IT services in Tampa Bay](https://suncoastservers.com/locations/tampa-bay/): Tampa, St. Petersburg, Clearwater, and the Suncoast.
+- [IT services in Florida](https://suncoastservers.com/locations/florida/): The same Tampa team for companies anywhere in the state.
+- [Remote IT across the U.S.](https://suncoastservers.com/locations/united-states/): A remote IT department for the rest of the country.
 
 
 ## Questions
@@ -45,6 +45,6 @@ Often, for sorting and research. A person still decides what to do. You can tell
 
 ## Related services
 
-- [Security and backups](https://www.suncoastservers.com/services/security-and-backups/): Checkups, multi-factor sign-in, device protection, and recovery plans.
-- [Cloud and servers](https://www.suncoastservers.com/services/cloud-and-servers/): AWS, Azure, Google Cloud, Cloudflare, monitoring, and backups.
-- [Email and workspaces](https://www.suncoastservers.com/services/email-and-workspaces/): Microsoft 365 and Google Workspace setup, moves, and admin.
+- [Security and backups](https://suncoastservers.com/services/security-and-backups/): Checkups, multi-factor sign-in, device protection, and recovery plans.
+- [Cloud and servers](https://suncoastservers.com/services/cloud-and-servers/): AWS, Azure, Google Cloud, Cloudflare, monitoring, and backups.
+- [Email and workspaces](https://suncoastservers.com/services/email-and-workspaces/): Microsoft 365 and Google Workspace setup, moves, and admin.

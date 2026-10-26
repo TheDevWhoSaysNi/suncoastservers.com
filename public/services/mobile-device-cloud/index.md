@@ -4,7 +4,7 @@ Suncoast Servers runs a mobile device cloud: physical iPhones and Android phones
 
 Suncoast Servers LLC is based in Tampa, Florida. Email info@suncoastservers.com. Office address: 5005 W Laurel St, Suite 100, Tampa, FL 33607, United States. Most work is remote. Primary service area: Tampa Bay, the rest of Florida, and the United States. International clients are welcome.
 
-Canonical page: https://www.suncoastservers.com/services/mobile-device-cloud/
+Canonical page: https://suncoastservers.com/services/mobile-device-cloud/
 
 
 ## What you get
@@ -47,6 +47,6 @@ It can give you a real U.S. mobile connection and a stable mobile IP. It does no
 
 ## Related services
 
-- [Social media ads](https://www.suncoastservers.com/services/social-media-and-ads/): Meta, Google, TikTok, and LinkedIn, with reporting you can read.
-- [Website design and hosting](https://www.suncoastservers.com/services/websites-and-hosting/): Custom sites, WordPress, online stores, domains, SSL, speed, and SEO.
-- [AI and automation](https://www.suncoastservers.com/services/ai-and-automation/): Chatbots and workflow automation, with a human sign-off.
+- [Social media ads](https://suncoastservers.com/services/social-media-and-ads/): Meta, Google, TikTok, and LinkedIn, with reporting you can read.
+- [Website design and hosting](https://suncoastservers.com/services/websites-and-hosting/): Custom sites, WordPress, online stores, domains, SSL, speed, and SEO.
+- [AI and automation](https://suncoastservers.com/services/ai-and-automation/): Chatbots and workflow automation, with a human sign-off.

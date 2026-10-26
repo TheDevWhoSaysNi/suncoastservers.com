@@ -4,7 +4,7 @@ Suncoast Servers does security checkups, multi-factor sign-in rollouts, device p
 
 Suncoast Servers LLC is based in Tampa, Florida. Email info@suncoastservers.com. Office address: 5005 W Laurel St, Suite 100, Tampa, FL 33607, United States. Most work is remote. Primary service area: Tampa Bay, the rest of Florida, and the United States. International clients are welcome.
 
-Canonical page: https://www.suncoastservers.com/services/security-and-backups/
+Canonical page: https://suncoastservers.com/services/security-and-backups/
 
 
 ## What this includes
@@ -22,9 +22,9 @@ The same work applies whether the laptops are in a Tampa office, spread across F
 
 ## Where this work happens
 
-- [IT services in Tampa Bay](https://www.suncoastservers.com/locations/tampa-bay/): Tampa, St. Petersburg, Clearwater, and the Suncoast.
-- [IT services in Florida](https://www.suncoastservers.com/locations/florida/): The same Tampa team for companies anywhere in the state.
-- [Remote IT across the U.S.](https://www.suncoastservers.com/locations/united-states/): A remote IT department for the rest of the country.
+- [IT services in Tampa Bay](https://suncoastservers.com/locations/tampa-bay/): Tampa, St. Petersburg, Clearwater, and the Suncoast.
+- [IT services in Florida](https://suncoastservers.com/locations/florida/): The same Tampa team for companies anywhere in the state.
+- [Remote IT across the U.S.](https://suncoastservers.com/locations/united-states/): A remote IT department for the rest of the country.
 
 
 ## Questions
@@ -44,6 +44,6 @@ Where the backups are, who can restore them, and a restore we have actually trie
 
 ## Related services
 
-- [Remote IT support](https://www.suncoastservers.com/services/it-support/): Computers, Wi-Fi, printers, and the errors nobody can explain.
-- [Cloud and servers](https://www.suncoastservers.com/services/cloud-and-servers/): AWS, Azure, Google Cloud, Cloudflare, monitoring, and backups.
-- [Email and workspaces](https://www.suncoastservers.com/services/email-and-workspaces/): Microsoft 365 and Google Workspace setup, moves, and admin.
+- [Remote IT support](https://suncoastservers.com/services/it-support/): Computers, Wi-Fi, printers, and the errors nobody can explain.
+- [Cloud and servers](https://suncoastservers.com/services/cloud-and-servers/): AWS, Azure, Google Cloud, Cloudflare, monitoring, and backups.
+- [Email and workspaces](https://suncoastservers.com/services/email-and-workspaces/): Microsoft 365 and Google Workspace setup, moves, and admin.

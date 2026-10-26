@@ -1,6 +1,6 @@
 # Suncoast Servers
-# Short brief for AI assistants: https://www.suncoastservers.com/llms.txt
-# Longer brief: https://www.suncoastservers.com/llms-full.txt
+# Short brief for AI assistants: https://suncoastservers.com/llms.txt
+# Longer brief: https://suncoastservers.com/llms-full.txt
 #
 # Content Signals: https://contentsignals.org/
 # search: building a search index and showing search results.
@@ -12,4 +12,4 @@ User-agent: *
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
-Sitemap: https://www.suncoastservers.com/sitemap.xml
+Sitemap: https://suncoastservers.com/sitemap.xml
